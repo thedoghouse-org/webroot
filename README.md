@@ -5,4 +5,4 @@ This would have all the static content that effectively wont need hosting as its
 All the software additions will be else where.
 
 - https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
-- - https://docs.github.com/en/pages
+- https://docs.github.com/en/pages
